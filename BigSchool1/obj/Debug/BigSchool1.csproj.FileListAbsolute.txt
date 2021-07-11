@@ -111,3 +111,10 @@ D:\BigSchool1\BigSchool1\obj\Debug\BigSchool1.csproj.GenerateResource.cache
 D:\BigSchool1\BigSchool1\obj\Debug\BigSchool1.Migrations.CreateTableCourse.resources
 D:\BigSchool1\BigSchool1\obj\Debug\BigSchool1.Migrations.PopulateCategoryTable.resources
 D:\BigSchool1\BigSchool1\obj\Debug\BigSchool1.Migrations.AddNameColumnToApplicationUser.resources
+D:\BigSchool1\BigSchool1\obj\Debug\BigSchool1.Migrations.AddAttendance.resources
+D:\BigSchool1\BigSchool1\bin\System.Net.Http.Formatting.dll
+D:\BigSchool1\BigSchool1\bin\System.Web.Http.dll
+D:\BigSchool1\BigSchool1\bin\System.Web.Http.WebHost.dll
+D:\BigSchool1\BigSchool1\bin\System.Net.Http.Formatting.xml
+D:\BigSchool1\BigSchool1\bin\System.Web.Http.xml
+D:\BigSchool1\BigSchool1\bin\System.Web.Http.WebHost.xml
