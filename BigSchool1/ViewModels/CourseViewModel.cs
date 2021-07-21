@@ -9,6 +9,7 @@ namespace BigSchool1.ViewModels
 {
     public class CourseViewModel
     {
+        public int Id { get; set; }
         [Required(ErrorMessage ="Vui lòng nhập Place")]
         public string Place { get; set; }
         [Required(ErrorMessage ="Vui lòng nhập Date")]
@@ -20,6 +21,12 @@ namespace BigSchool1.ViewModels
         [Required(ErrorMessage ="Vui lòng nhập Category")]
         public byte Category { get; set; }
         public IEnumerable<Category> Categories { get; set; }
+
+        public string Heading { get; set; }
+        public string Action
+        {
+            get { return (Id != 0) ? "Update" : "Create"; }
+        }
         public DateTime GetDateTime ()
         {
             return DateTime.Parse(string.Format("{0} {1}", Date, Time));
